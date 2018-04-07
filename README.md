@@ -1,5 +1,9 @@
 # Banco del País: 100% digital
 
+![Con titulo](assets/images/Captura.PNG "KO")
+
+El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials.
+
 ## Reto:
 
 ¿Recuerdas el caso del nuevo banco digital para millenials? Bueno, seguiremos trabajando en eso. Ahora, te pedimos que con las respuestas de tus stakeholders replantees tu plan de research.
